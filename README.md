@@ -34,3 +34,9 @@ Ditambahkan animasi fot menhecil dan membesar serta animasi jatuh ke bawah pada 
 ![Resep2](https://github.com/Padli1407/RestoRecipe-Website_desc2/assets/131162646/f97121e3-c3b5-4a16-8237-8cffd5175bdf)
 ### Setelah dianimasikan:
 ![Resep2-1](https://github.com/Padli1407/RestoRecipe-Website_desc2/assets/131162646/fe672c9e-1e4a-42f2-a2c3-30cee168d91d)
+
+## Tautan Web APP:
+https://appetize.io/app/vurbvuncvih6jywmkscjca5m6q?device=pixel4&osVersion=11.0&scale=75
+
+## Tautan APK (Google Drive):
+https://drive.google.com/drive/folders/1o5sCTQCvXqAQ3VCwj_lfrnxFB7Yv_b-A?usp=share_link
